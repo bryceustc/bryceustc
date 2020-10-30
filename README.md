@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi,I'm Light-City  <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="30px">
+# Hi,I'm Bryce  <img src="https://github.com/bryceustc/bryceustc/blob/main/wave.gif?raw=true" width="30px">
 
- <img src="https://github.com/Light-City/Light-City/blob/main/mtt.jpg?raw=true">
+ <img src="https://github.com/bryceustc/bryceustc/blob/main/mtt.jpg?raw=true">
 
 I ❤️ Back-end Development!
 
@@ -25,21 +25,15 @@ I ❤️ Back-end Development!
 
 :vulcan_salute: I put mostly of my focus on back-end develpoment with Go/C++.
 
-:writing_hand: I Love write technical articles, you can visit [my websites](https://light-city.club/).
+:writing_hand: I Love write technical articles, you can visit [my websites](https://bryceustc.github.io/).
 
 ## ⚡ Technologies
 
-![Go](https://img.shields.io/badge/-go-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
