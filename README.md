@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 I ❤️ Back-end Development!
 
-:computer: A Back-end Engineer, currently based in ShenZhen at Tencent.
+:computer: A Student from USTC, will be based in Beijing at Kuaishou next year.
 
-:vulcan_salute: I put mostly of my focus on back-end develpoment with Go/C++.
+:vulcan_salute: I put mostly of my focus on back-end develpoment with C++.
 
-:writing_hand: I Love write technical articles, you can visit [my websites](https://bryceustc.github.io/).
+:writing_hand: I Love write some articles, you can visit [my websites](https://bryceustc.github.io/).
 
 ## ⚡ Technologies
 
