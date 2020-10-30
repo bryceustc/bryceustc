@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi,I'm Bryce  <img src="https://github.com/bryceustc/bryceustc/blob/main/wave.gif?raw=true" width="30px">
 
- <img src="https://github.com/bryceustc/bryceustc/blob/main/mtt.jpg?raw=true">
+ <img src="https://github.com/bryceustc/bryceustc/blob/main/skycrapper.jpg?raw=true">
 
 I ❤️ Back-end Development!
 
