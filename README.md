@@ -53,5 +53,5 @@ I ❤️ Back-end Development!
 - blog: click [here](https://bryceustc.github.io/)🏓
 
 ## 🌎 Visitors
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bryceustc/bryceustc)
 
