@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I ❤️ Back-end Development!
 
-:computer: A Student from USTC, will be based in Beijing at Kuaishou next year.
+:computer: A Student from USTC, will be based in Beijing at Kuaishou this year.
 
 :vulcan_salute: I put mostly of my focus on back-end develpoment with C++.
 
