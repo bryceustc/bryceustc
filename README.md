@@ -25,7 +25,7 @@ I ❤️ Back-end Development!
 
 :vulcan_salute: I put mostly of my focus on back-end develpoment with C++.
 
-:writing_hand: I Love write some articles, you can visit [my websites](https://bryceustc.github.io/).
+:writing_hand: I i enjoy writing some articles, you can visit [my blog](https://bryceustc.github.io/).
 
 ## ⚡ Technologies
 
